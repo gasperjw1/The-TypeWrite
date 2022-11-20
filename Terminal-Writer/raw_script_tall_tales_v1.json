@@ -1,0 +1,67 @@
+{
+    "end_location": 6,
+    "items": {
+        "actions": [],
+        "settings": [
+            {
+                "type": 2,
+                "location": 2,
+                "character": null,
+                "value": "In a tavern somewhere."
+            }
+        ],
+        "headers": [
+            {
+                "type": 3,
+                "location": 0,
+                "character": null,
+                "value": "1"
+            },
+            {
+                "type": 4,
+                "location": 1,
+                "character": null,
+                "value": "1"
+            }
+        ],
+        "dialogues": [
+            {
+                "type": 5,
+                "location": 3,
+                "character": {
+                    "name": "MAX",
+                    "description": "Our main character, a bard."
+                },
+                "value": "Once upon a time, in a not-so-far past, above these very lands roamed rare and aggressive beasts. From dragons to centaurs, unicorns to women with low standards."
+            },
+            {
+                "type": 5,
+                "location": 5,
+                "character": {
+                    "name": "MAX",
+                    "description": "Our main character, a bard."
+                },
+                "value": "I know, I know. It sounds like a bunch of dream, but it's true! Although they don't exist anymore, all of these strange beasts were once real and populated this world. The thing is, it was too much. Chaos everywhere, stampeeds and fires took down everything! Except for the dragons, for they ruled this now descolent world. They were cynical, god-like beings that understood langauge, and spoke it very well. They were wise and greedy. Calm yet strong, and they ruled this world through fear. I mean, how could a man defeat someone, no someTHING, 10 times its height alone! The powers of a man are no match against the capabilities of a dragon... Still, someone did. There was a man who stood up and challenged the dragons. With a sword sharp as a tack and tougher than saying no to a night with a beautiful woman, his steel blade could cut through the scales of those winged vermin that so dared to breathe the same air as him."
+            }
+        ],
+        "directions": [
+            {
+                "type": 6,
+                "location": 4,
+                "character": null,
+                "value": "Some people in the audience chuckle."
+            }
+        ]
+    },
+    "characters": [
+        {
+            "name": "MAX",
+            "description": "Our main character, a bard."
+        }
+    ],
+    "latest_info": {
+        "Act": 1,
+        "Scene": 1
+    },
+    "script_name": "tall_tales_v1"
+}
