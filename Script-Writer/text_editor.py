@@ -26,6 +26,7 @@ text_box = Text(
     width=97,
     height=25,
     font=("Courier", 12),
+    # font=("Delius", 12),
     selectbackground='gray',
     selectforeground='black',
     undo=True,
